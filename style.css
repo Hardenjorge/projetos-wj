@@ -1,3 +1,45 @@
-body{
-  background-color:green
+body {
+
+}
+
+#banner {
+    width: 100%;
+}
+
+.Principal{
+  background: #BBBBBB
+}
+
+h1 {
+    text-align: center
+}
+
+p {
+    text-align: center;
+}
+
+#missao {
+    font-size: 20px
+}
+
+em strong {
+    color: #FF0000;
+}
+
+.itens{
+  font-style: italic;
+}
+
+.Horário de atendimento{
+  background: #FFFFFFFFFFF
+  padding:20px
+}
+ul{
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right: 15%;
+}
+.imagempro{
+  width: 50%
 }
